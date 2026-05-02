@@ -32,7 +32,7 @@
 
 ---
 
-## `tech.stack`
+## `Tech Stack`
 
 <div align="center">
 
@@ -71,26 +71,14 @@
 
 ---
 
-## `Learning`
-
-```python
-roadmap = {
-    "AWS"        : "Solutions Architect path ☁️",
-    "AI Agents"  : "LangGraph, CrewAI, tool-calling patterns 🤖",
-    "ML"         : "Supervised learning, Neural Nets, transformers 🧠",
-    "DSA"        : "Trees, Graphs, DP — LeetCode grind 🔄",
-    "CS Fundamentals" : "OS, DBMS, SDLC, System Design 📚"
-}
-```
-
 
 ## `Connect Me !!`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pphilemonpaul)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PhilemonPaulP)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.philemonpaul@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pphilemonpaul)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pa.philemonpaul@gmail.com)
+[![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/PhilemonPaulP)
 
 </div>
 
