@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Philemon Paul 👋
 
 I'm a backend-focused developer with full-stack capabilities, building reliable systems and writing code that scales. Currently pursuing my degree in Computer Science while sharpening my skills in distributed systems and cloud infrastructure.
 
@@ -54,8 +54,8 @@ I'm a backend-focused developer with full-stack capabilities, building reliable 
 
 ## 📬 Contact
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** youremail@example.com
+- **LinkedIn:** [linkedin.com/in/pphilemonpaul](https://linkedin.com/in/pphilemonpaul)
+- **Email:** pa.philemonpaul@gmail.com
 - **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
 ---
