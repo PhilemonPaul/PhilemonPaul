@@ -65,7 +65,7 @@
 | Project | Stack | Description |
 |--------|-------|-------------|
 |  **LLM Code Analyzer** | LLaMA 3.2 · Spring Boot · React.js | AI-powered code review tool using local LLMs with a clean full-stack interface |
-|  **Rate Limiter & API Gateway** | Spring Boot · Redis · Docker · GitHub Actions | Production-grade distributed rate limiter with CI/CD pipeline |
+|  **Curator** | React Native · Firebase · MongoDb | Application for Construction QA/QC for Inspections |
 |  **BudgetFlow** | React Native · Node.js | Personal finance tracker app with smart categorization |
 |  **BuildPro** | React Native · Node.js | Construction site management app inspired by enterprise tooling |
 
@@ -104,6 +104,5 @@ roadmap = {
 ╚══════════════════════════════════════════════════════╝
 ```
 
-*⚡ Powered by caffeine, curiosity, and a stubborn refusal to give up on bugs*
 
 </div>
