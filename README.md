@@ -17,7 +17,7 @@
 
 ---
 
-## `who am i`
+## `Who Am I`
 
 
 ```json
@@ -32,45 +32,27 @@
 
 ---
 
-## `Tech Stack`
+## `tech.stack`
 
 <div align="center">
 
 ### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&perline=6)](https://skillicons.dev)
 
 ### 🔧 Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![Backend Skills](https://skillicons.dev/icons?i=spring,nodejs,express&perline=6)](https://skillicons.dev)
 
 ### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,c&perline=6)](https://skillicons.dev)
 
 ### 🤖 AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![AI Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps *(learning)*
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![DevOps Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,githubactions&perline=6)](https://skillicons.dev)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![DB Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -102,7 +84,7 @@ roadmap = {
 ```
 
 
-## `./connect --reach-out`
+## `Connect Me !!`
 
 <div align="center">
 
@@ -121,8 +103,6 @@ roadmap = {
 ║  "First, solve the problem. Then, write the code."  ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=00D9FF)
 
 *⚡ Powered by caffeine, curiosity, and a stubborn refusal to give up on bugs*
 
