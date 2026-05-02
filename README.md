@@ -1,65 +1,147 @@
-# Hi, I'm Philemon Paul 👋
+<div align="center">
 
-I'm a backend-focused developer with full-stack capabilities, building reliable systems and writing code that scales. Currently pursuing my degree in Computer Science while sharpening my skills in distributed systems and cloud infrastructure.
+```
+██████╗ ██╗  ██╗██╗██╗      ██████╗
+██╔══██╗██║  ██║██║██║     ██╔═══██╗
+██████╔╝███████║██║██║     ██║   ██║
+██╔═══╝ ██╔══██║██║██║     ██║   ██║
+██║     ██║  ██║██║███████╗╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝
+```
 
----
+### `> Software Engineer in the Making_`
 
-## 🛠 Tech Stack
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;LLM+%2B+AI+Agent+Explorer+%F0%9F%A4%96;Spring+Boot+%7C+React+%7C+Node.js;Always+Learning%2C+Always+Building+%F0%9F%94%A5)
 
-**Frontend**
-`React`
-
-**Backend**
-`Node.js` &nbsp; `Spring Boot`
-
-**Languages**
-`Java` &nbsp; `Python` &nbsp; `C++`
-
-**Database**
-`SQL` &nbsp; `MySQL` &nbsp; `PostgreSQL`
-
-**Core**
-`Data Structures & Algorithms`
+</div>
 
 ---
 
-## 📚 Currently Learning
+## `whoami`
 
-- **AWS** — EC2, S3, Lambda, and cloud deployment patterns
-- **System Design** — scalability, caching, load balancing, CAP theorem
-- **Advanced Backend** — microservices, message queues, API design
+```bash
+$ cat about.json
+```
 
----
-
-## 🔨 Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name]** | Brief one-line description of what it does and the problem it solves. | `Spring Boot` `React` `MySQL` |
-| **[Project Name]** | Brief one-line description of what it does and the problem it solves. | `Node.js` `PostgreSQL` |
-| **[Project Name]** | Brief one-line description of what it does and the problem it solves. | `Java` `Spring Boot` `Docker` |
-
-> See all projects in the [repositories tab](https://github.com/yourusername?tab=repositories).
+```json
+{
+  "role"        : "3rd Year B.E. Computer Science Student",
+  "focus"       : ["Full-Stack Dev", "LLM Engineering", "AI Agents", "Cloud"],
+  "currently"   : ["Learning AWS ☁️", "Exploring AI Agents 🤖", "Grinding DSA 💪"],
+  "interests"   : ["System Design", "ML", "Open Source", "Building Cool Stuff"],
+  "status"      : "🟢 Open to Internships & Collaborations"
+}
+```
 
 ---
 
-## 📊 GitHub Stats
+## `tech.stack`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+<div align="center">
+
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🤖 AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ☁️ Cloud & DevOps *(learning)*
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
 
 ---
 
-## 📬 Contact
+## `./projects --highlight`
 
-- **LinkedIn:** [linkedin.com/in/pphilemonpaul](https://linkedin.com/in/pphilemonpaul)
-- **Email:** pa.philemonpaul@gmail.com
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+> 🔥 Things I've built & shipped
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🧠 **LLM Code Analyzer** | LLaMA 3.2 · Spring Boot · React.js | AI-powered code review tool using local LLMs with a clean full-stack interface |
+| ⚡ **Rate Limiter & API Gateway** | Spring Boot · Redis · Docker · GitHub Actions | Production-grade distributed rate limiter with CI/CD pipeline |
+| 💰 **BudgetFlow** | React Native · Node.js | Personal finance tracker app with smart categorization |
+| 🏗️ **BuildPro** | React Native · Node.js | Construction site management app inspired by enterprise tooling |
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=grey" alt="Profile views" />
-</p>
+## `./learning --current`
+
+```python
+roadmap = {
+    "AWS"        : "Solutions Architect path ☁️",
+    "AI Agents"  : "LangGraph, CrewAI, tool-calling patterns 🤖",
+    "ML"         : "Supervised learning, Neural Nets, transformers 🧠",
+    "DSA"        : "Trees, Graphs, DP — LeetCode grind 🔄",
+    "CS Fundamentals" : "OS, DBMS, SDLC, System Design 📚"
+}
+```
+
+---
+
+## `git stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## `./connect --reach-out`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pphilemonpaul)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/PhilemonPaulP)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pa.philemonpaul@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=00D9FF)
+
+*⚡ Powered by caffeine, curiosity, and a stubborn refusal to give up on bugs*
+
+</div>
