@@ -17,11 +17,8 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
-```bash
-$ cat about.json
-```
 
 ```json
 {
@@ -35,7 +32,7 @@ $ cat about.json
 
 ---
 
-## `tech.stack`
+## `Tech Stack`
 
 <div align="center">
 
@@ -79,20 +76,20 @@ $ cat about.json
 
 ---
 
-## `./projects --highlight`
+## `Projects`
 
 > 🔥 Things I've built & shipped
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| 🧠 **LLM Code Analyzer** | LLaMA 3.2 · Spring Boot · React.js | AI-powered code review tool using local LLMs with a clean full-stack interface |
-| ⚡ **Rate Limiter & API Gateway** | Spring Boot · Redis · Docker · GitHub Actions | Production-grade distributed rate limiter with CI/CD pipeline |
-| 💰 **BudgetFlow** | React Native · Node.js | Personal finance tracker app with smart categorization |
-| 🏗️ **BuildPro** | React Native · Node.js | Construction site management app inspired by enterprise tooling |
+|  **LLM Code Analyzer** | LLaMA 3.2 · Spring Boot · React.js | AI-powered code review tool using local LLMs with a clean full-stack interface |
+|  **Rate Limiter & API Gateway** | Spring Boot · Redis · Docker · GitHub Actions | Production-grade distributed rate limiter with CI/CD pipeline |
+|  **BudgetFlow** | React Native · Node.js | Personal finance tracker app with smart categorization |
+|  **BuildPro** | React Native · Node.js | Construction site management app inspired by enterprise tooling |
 
 ---
 
-## `./learning --current`
+## `Learning`
 
 ```python
 roadmap = {
@@ -104,21 +101,6 @@ roadmap = {
 }
 ```
 
----
-
-## `git stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
-
-</div>
-
----
 
 ## `./connect --reach-out`
 
